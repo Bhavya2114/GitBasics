@@ -1,1 +1,1 @@
-This line was resolved manually
+This came from cherry-demo
